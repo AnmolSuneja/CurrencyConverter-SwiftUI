@@ -9,4 +9,4 @@ This is a sample project created to convert the currency entered in selected for
 - This project has been developed using XCode 15.3
 
 # Demo
-![](https://github.com/AnmolSuneja/CurrencyConverter-SwiftUI/blob/main/currency.gif)
+![](https://github.com/AnmolSuneja/CurrencyConverter-SwiftUI/blob/main/currencydemo.gif)
